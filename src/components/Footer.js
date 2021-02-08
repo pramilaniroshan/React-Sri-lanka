@@ -68,7 +68,7 @@ function Footer() {
               <i class='fas fa-heart' />
             </Link>
           </div>
-          <small class='website-rights'>SRI LANKA © 2020</small>
+          <small class='website-rights'>pramilaniroshan © 2020</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
